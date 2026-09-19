@@ -1,0 +1,15 @@
+{
+ "model": "Stacking (Trained Rule Fusion)",
+ "syllabus_unit": "Unit V - Trained rule fusion",
+ "accuracy": 0.9993303414083977,
+ "precision": 0.9473684210526315,
+ "recall": 0.6338028169014085,
+ "f1": 0.759493670886076,
+ "tn": 84971,
+ "fp": 5,
+ "fn": 52,
+ "tp": 90,
+ "pr_auc": 0.8374681658825122,
+ "roc_auc": 0.9840213375905972,
+ "fusion_rule": "stacking with logistic regression meta-learner"
+}

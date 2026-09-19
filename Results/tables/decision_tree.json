@@ -1,0 +1,14 @@
+{
+ "model": "Decision Tree",
+ "syllabus_unit": "Unit II - Decision tree learning (ID3)",
+ "accuracy": 0.9994360769754929,
+ "precision": 0.8671875,
+ "recall": 0.7816901408450704,
+ "f1": 0.8222222222222222,
+ "tn": 84959,
+ "fp": 17,
+ "fn": 31,
+ "tp": 111,
+ "pr_auc": 0.8075270785220847,
+ "roc_auc": 0.9660729392358671
+}

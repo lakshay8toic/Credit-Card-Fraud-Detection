@@ -1,0 +1,15 @@
+{
+ "model": "K-Means (unsupervised)",
+ "syllabus_unit": "Unit V - Clustering: K-means",
+ "accuracy": 0.9904133085833784,
+ "precision": 0.10446009389671361,
+ "recall": 0.6267605633802817,
+ "f1": 0.1790744466800805,
+ "tn": 84213,
+ "fp": 763,
+ "fn": 53,
+ "tp": 89,
+ "pr_auc": 0.15716549900805474,
+ "roc_auc": 0.9546461834459968,
+ "note": "unsupervised; flags the 1% of transactions farthest from any centroid"
+}

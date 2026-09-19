@@ -1,0 +1,15 @@
+{
+ "model": "Random Forest",
+ "syllabus_unit": "Unit V - Ensembles: bagging, Random Forest",
+ "accuracy": 0.9995065673535563,
+ "precision": 0.9716981132075472,
+ "recall": 0.7253521126760564,
+ "f1": 0.8306451612903226,
+ "tn": 84973,
+ "fp": 3,
+ "fn": 39,
+ "tp": 103,
+ "pr_auc": 0.8658630898273826,
+ "roc_auc": 0.9691939944600764,
+ "ensemble_type": "bagging"
+}

@@ -1,0 +1,8 @@
+approach,type,pr_auc
+Base: Decision Tree,single,0.8046118193281324
+Base: Naive Bayes,single,0.17975864238008327
+Base: Neural Network,single,0.8393923530481743
+Majority vote,fixed rule fusion,
+Mean rule (soft vote),fixed rule fusion,0.7953082526437286
+Product rule,fixed rule fusion,0.8030489362663875
+Stacking,trained rule fusion,0.8374681658825122

@@ -1,0 +1,16 @@
+{
+ "model": "Neural Network (MLP)",
+ "syllabus_unit": "Unit IV - Multilayer networks, backpropagation",
+ "accuracy": 0.9994478253718367,
+ "precision": 0.9203539823008849,
+ "recall": 0.7323943661971831,
+ "f1": 0.8156862745098039,
+ "tn": 84967,
+ "fp": 9,
+ "fn": 38,
+ "tp": 104,
+ "pr_auc": 0.8498369942049212,
+ "roc_auc": 0.9772586161859124,
+ "architecture": "30 -> 32 -> 16 -> 1",
+ "n_weights": 1537
+}

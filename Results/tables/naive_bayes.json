@@ -1,0 +1,18 @@
+{
+ "model": "Naive Bayes",
+ "syllabus_unit": "Unit III - Bayesian learning, Naive Bayes",
+ "accuracy": 0.9894616884795225,
+ "precision": 0.11282051282051282,
+ "recall": 0.7746478873239436,
+ "f1": 0.19695613249776187,
+ "tn": 84111,
+ "fp": 865,
+ "fn": 32,
+ "tp": 110,
+ "pr_auc": 0.18275831092309988,
+ "roc_auc": 0.9708370433010415,
+ "decision_rule": "Bayes optimal threshold tau* = 0.019608 on isotonic-calibrated posteriors",
+ "map_rule_recall": 0.6549295774647887,
+ "map_rule_precision": 0.14553990610328638,
+ "map_rule_f1": 0.23815620998719592
+}

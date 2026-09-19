@@ -1,0 +1,15 @@
+{
+ "model": "K-Nearest Neighbour",
+ "syllabus_unit": "Unit II - Instance based learning",
+ "accuracy": 0.9993655865974295,
+ "precision": 0.84375,
+ "recall": 0.7605633802816901,
+ "f1": 0.8,
+ "tn": 84956,
+ "fp": 20,
+ "fn": 34,
+ "tp": 108,
+ "pr_auc": 0.7896662921191145,
+ "roc_auc": 0.9326412130285004,
+ "note": "trained on a 60,000-row stratified subsample (all frauds kept)"
+}

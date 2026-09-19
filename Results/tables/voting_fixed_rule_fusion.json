@@ -1,0 +1,13 @@
+{
+ "model": "Voting (Fixed Rule Fusion)",
+ "syllabus_unit": "Unit V - Fixed rule fusion",
+ "accuracy": 0.9994125801828051,
+ "precision": 0.8833333333333333,
+ "recall": 0.7464788732394366,
+ "f1": 0.8091603053435115,
+ "tn": 84962,
+ "fp": 14,
+ "fn": 36,
+ "tp": 106,
+ "fusion_rule": "majority vote (hard voting)"
+}

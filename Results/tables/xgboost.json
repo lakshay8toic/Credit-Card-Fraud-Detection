@@ -1,0 +1,15 @@
+{
+ "model": "XGBoost",
+ "syllabus_unit": "Unit V - Ensembles: boosting",
+ "accuracy": 0.9996240513169953,
+ "precision": 0.9508196721311475,
+ "recall": 0.8169014084507042,
+ "f1": 0.8787878787878788,
+ "tn": 84970,
+ "fp": 6,
+ "fn": 26,
+ "tp": 116,
+ "pr_auc": 0.8774137005155334,
+ "roc_auc": 0.9824736760802056,
+ "ensemble_type": "boosting"
+}

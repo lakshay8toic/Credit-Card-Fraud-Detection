@@ -1,0 +1,18 @@
+{
+ "model": "Support Vector Machine",
+ "syllabus_unit": "Unit III - SVM, dual formulation, kernels",
+ "accuracy": 0.9993185930120538,
+ "precision": 0.8333333333333334,
+ "recall": 0.7394366197183099,
+ "f1": 0.7835820895522388,
+ "tn": 84955,
+ "fp": 21,
+ "fn": 37,
+ "tp": 105,
+ "pr_auc": 0.784138457292723,
+ "roc_auc": 0.9695955577183683,
+ "kernel": "rbf",
+ "C": 10.0,
+ "n_support_vectors": 1240,
+ "note": "trained on a 40,000-row stratified subsample (all frauds kept)"
+}
