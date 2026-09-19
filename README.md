@@ -1,9 +1,17 @@
 # Credit Card Fraud Detection using Machine Learning
 
-**Lakshay** &nbsp;·&nbsp; Roll No: AP24110010677 &nbsp;·&nbsp; B.Tech Computer Science and Engineering
-**SRM University – AP** &nbsp;·&nbsp; Supervisor: Mr. Ajay Dilip Kumar Marapatla
-
+**B.Tech Computer Science and Engineering · SRM University – AP**
 Machine Learning End-Semester Project · September 2026
+Supervisor: **Mr. Ajay Dilip Kumar Marapatla**
+
+### Team
+
+| Name | Roll No |
+|---|---|
+| Akshita Modi | AP24110010386 |
+| Lakshay | AP24110010677 |
+| Mohana Krishna Reddy Pittu | AP24110011262 |
+| Nadimpally Dheva Harshit | AP24110011553 |
 
 ---
 
