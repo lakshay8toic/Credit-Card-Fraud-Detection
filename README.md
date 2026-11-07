@@ -34,8 +34,11 @@ It shows the model's verdict and confidence on a chosen transaction, prints the
 exact rule the decision tree followed, scores the whole sample at once into a
 confusion matrix, and lets the decision threshold be moved live to show the
 trade-off between catching fraud and raising false alarms.
-See [`Demo/README.md`](Demo/README.md), and
-[`START-HERE.md`](START-HERE.md) for a guide to the rest of the repository.
+Step-by-step setup, including every error we hit and how to fix it, is in
+[`How To Run/`](How%20To%20Run/). What to say about the project, and the
+questions it tends to attract, is in
+[`How To Explain/`](How%20To%20Explain/). [`START-HERE.md`](START-HERE.md) is
+the map of the whole repository.
 
 ### What the app shows
 
@@ -471,6 +474,8 @@ Credit-Card-Fraud-Detection/
 ├── Code/                  8 core notebooks + utils.py (shared split and metrics)
 │   └── Extras/            2 supporting analyses (feature reduction, clustering)
 ├── Demo/                  live demonstration app (Streamlit)
+├── How To Run/            setup step by step, with troubleshooting
+├── How To Explain/        what to say about the project, and likely questions
 ├── Dataset/               download instructions (the CSV is not committed)
 ├── Report/                project report (47 pages, PDF)
 ├── Presentation/          viva presentation (20 slides, PPTX)
@@ -480,7 +485,7 @@ Credit-Card-Fraud-Detection/
 │   ├── screenshots/       images of the live demo used in this README
 │   └── tables/            metrics for every model, in CSV and JSON
 ├── README.md
-├── START-HERE.md          guide to the repository and the demo
+├── START-HERE.md          map of the repository
 ├── requirements.txt
 └── LICENSE
 ```
