@@ -328,6 +328,15 @@ with tab2:
                 f"({precision*100:.1f}% of alerts were worth reviewing)\n"
                 f"- Frauds that slipped through: **{fn}**\n"
                 f"- Recall: **{recall*100:.1f}%** of all fraud was caught")
+            st.caption(
+                f"Read precision here with care. This sample is deliberately "
+                f"fraud-heavy — {int(truth.sum())} frauds in {len(truth):,} "
+                f"transactions ({truth.mean()*100:.1f}%), against 0.17% in the "
+                f"real data — so that there is something to look at. That makes "
+                f"false alarms rarer here than they would be in production. The "
+                f"true figures, measured on the full "
+                f"{summary['test_rows']:,}-transaction test set, are in the "
+                f"sidebar and in the third tab.")
 
         st.markdown("**The transactions the model was most suspicious about**")
         top = sample.copy()
