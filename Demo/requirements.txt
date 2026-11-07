@@ -1,0 +1,4 @@
+# Extra packages needed by the live demo, on top of the project's
+# main requirements.txt in the repository root.
+streamlit>=1.30
+joblib>=1.3
