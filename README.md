@@ -13,6 +13,9 @@ Supervisor: **Mr. Ajay Dilip Kumar Marapatla**
 | Mohana Krishna Reddy Pittu | AP24110011262 |
 | Nadimpally Dheva Harshit | AP24110011553 |
 
+👉 **[🌐 Open Live Website (http://localhost:8501)](http://localhost:8501)**  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://localhost:8501)
+
 ---
 
 ## Live demo

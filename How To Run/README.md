@@ -1,5 +1,7 @@
 # How To Run This Project
 
+> 🚀 **Quick Access (Localhost)**: Once the Streamlit server is running, you can click directly on **[Open Localhost Web App (http://localhost:8501)](http://localhost:8501)** to launch the website. You can also double-click [`Open Web App.html`](file:///Users/lakshay/Programming/Credit-Card-Fraud-Detection/How%20To%20Run/Open%20Web%20App.html) or the desktop shortcut in this folder.
+
 Everything needed to get the project running from a clean machine, in order.
 If something breaks, the [Troubleshooting](#troubleshooting) section at the
 bottom covers every problem we actually hit while building this.
